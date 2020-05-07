@@ -96,7 +96,7 @@
 
 /* CSS responsive design */
     /* Cards media queries */
-    @media (max-width: 800px) {
+    @media (max-width: 992px) {
         .cards {
         grid-template-columns: 1fr;
         }
